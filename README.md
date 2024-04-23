@@ -35,8 +35,12 @@ This script, for every month-year, searches the "result" files, finds the averag
      No matches found for /day07/wct/
      No matches found for /day23/wct/
      No matches found for /day30/wct/
+     taq.WCT_19940507
+     taq.WCT_19980823
+     taq.WCT_20021130
+
      ```
-     But the above come from falsely named zipped folders that contain CSV files with different names. The correct names exist!
+     But the above wct filenames come from falsely named zipped folders that contain CSV files with different names. The correct names exist!
 
 ## 5. check_sizes.sh
 
